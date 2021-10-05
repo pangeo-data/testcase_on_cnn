@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# you can add commands that run after builing the environment here!
+# https://repo2docker.readthedocs.io/en/latest/config_files.html#postbuild-run-code-after-installing-the-environment
+
+#EOF
