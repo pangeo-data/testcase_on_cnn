@@ -1,3 +1,8 @@
+##Description
+A small scale experimentation of the method proposed in 
+paper : A test case for application of convolutional neural networks to spatio-temporal climate data: Re-identifying clustered weather patterns
+
+
 # pangeo-binder-template
 template repository for pangeo binder configuration
 
